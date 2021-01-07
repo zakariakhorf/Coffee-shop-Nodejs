@@ -1,0 +1,28 @@
+{
+    "hero":{
+        "header":"Drink Healthy <br> and Natural Coffee !!",
+        "subtext":"Welcome to My Coffee shop ! We only brew the freshest coffee from around the World ! We have the nicest pastries too !",
+        "bg_image":"/images/insta-4.jpg"
+
+    },
+    "about":{
+        "header":"Welcome to Khorf's Coffee Shop",
+        "subtext": "Welcome to our house of coffee! We hope you enjoyed your Breakfest with us !",
+        "bg_image":"/images/insta-1.jpg",
+        "images" : [                 ]
+    },
+    "div":{
+        "header":"Welcome to Khorf's Coffee Shop",
+        "subtext": "Welcome to our house of coffee! We hope you enjoyed your Breakfest with us !",
+        "bg_image":"/images/image_4.jpg",
+        "images" : [    {
+            "image":"/images/dessert-3.jpg",
+            "caption":"Chocolate Souflee"
+        },{
+            "image":"/images/dessert-1.jpg",
+            "caption":"Hommade Pancakes"},
+
+            {"image":"/images/dinner-6.jpg",
+                "caption":"Eggs with Avocado recipe "}             ]
+    }
+}
